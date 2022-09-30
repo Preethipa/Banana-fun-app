@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Alkalami&family=Lato&family=Merriweather&family=Playfair+Display&family=Source+Sans+Pro&display=swap');
+
+body{
+    
+    font-family: 'Alkalami', serif;
+   
+}
+
+:root{
+     --primary-color:#fcd34d;
+     --off-white:#e2e8f0;
+}
+
+.coder{
+    padding: 0rem;
+}
+
+
+.coder-heading{
+    padding-top:1rem;
+    text-align: center;
+    color:brown;
+    background-color: var(--primary-color);
+    
+}
+
+.text-box{
+    padding-bottom: 2rem;
+    margin:auto;
+}
+
+
+
+.output-heading{
+    font-size: large;
+    color:brown;
+    padding: 0rem 25rem;
+    padding-bottom: 1rem;
+  
+}
+
+.footer{
+    background-color: var(--primary-color);
+    padding-bottom: 2rem;
+    
+}
+
+.footer-header{
+    padding-top:1rem;
+    text-align: center;
+    font-size: xx-large;
+    color:brown;
+    background-color: var(--primary-color);
+}
+
+.para{
+    
+    text-align: center;
+    color:brown;
+    font-weight: lighter;
+
+}
+
+
+
+
