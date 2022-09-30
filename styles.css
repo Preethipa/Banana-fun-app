@@ -8,7 +8,7 @@ body{
 
 :root{
     --primary-color:#fcd34d;
-   
+    position:fixed;
 }
 
 
@@ -33,16 +33,16 @@ body{
 
 .btn-button{
     margin-top: 5px;
-    padding: 0px 385px;
+    padding: 0px 240px;
     position: fixed;
     
 }
 
 .output-heading{
     margin-top: 80px;
-    font-size:large;
+    position: static;
     color:brown;
-    padding: 0rem 24rem;
+    padding: 0rem 15rem;
     padding-bottom: 1rem;
     margin-bottom:0.2ch;
     
