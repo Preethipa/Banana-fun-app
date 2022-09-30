@@ -7,9 +7,11 @@ body{
 }
 
 :root{
-     --primary-color:#fcd34d;
-     --off-white:#e2e8f0;
+    --primary-color:#fcd34d;
+    
 }
+
+
 
 .coder{
     padding: 0rem;
@@ -29,12 +31,16 @@ body{
     margin:auto;
 }
 
-
+.btn-button{
+    margin-top: 5px;
+    padding: 0px 383px
+}
 
 .output-heading{
+    margin-top: 5px;
     font-size: large;
     color:brown;
-    padding: 0rem 25rem;
+    padding: 0rem 24rem;
     padding-bottom: 1rem;
   
 }
@@ -42,6 +48,7 @@ body{
 .footer{
     background-color: var(--primary-color);
     padding-bottom: 2rem;
+    margin-top: 20px;
     
 }
 
@@ -49,6 +56,7 @@ body{
     padding-top:1rem;
     text-align: center;
     font-size: xx-large;
+    
     color:brown;
     background-color: var(--primary-color);
 }
