@@ -8,7 +8,7 @@ body{
 
 :root{
     --primary-color:#fcd34d;
-    position:fixed;
+   
 }
 
 
@@ -33,17 +33,19 @@ body{
 
 .btn-button{
     margin-top: 5px;
-    padding: 0px 130px;
+    padding: 0px 385px;
     position: fixed;
     
 }
 
 .output-heading{
     margin-top: 80px;
-    font-size: 0.5cm;
+    font-size:large;
     color:brown;
-    padding: 0rem 8rem;
+    padding: 0rem 24rem;
     padding-bottom: 1rem;
+    margin-bottom:0.2ch;
+    
    
   
 }
@@ -51,14 +53,14 @@ body{
 .footer{
     background-color: var(--primary-color);
     padding-bottom: 2rem;
-    margin-top: 50px;
+    margin-top: 135px;
     
 }
 
 .footer-header{
     padding-top:1rem;
     text-align: center;
-    font-size: xx-large;
+    
     
     color:brown;
     background-color: var(--primary-color);
