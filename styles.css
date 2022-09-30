@@ -33,7 +33,7 @@ body{
 
 .btn-button{
     margin-top: 5px;
-    padding: 0px 240px;
+    padding: 0px 130px;
     position: fixed;
     
 }
@@ -42,7 +42,7 @@ body{
     margin-top: 80px;
     position: static;
     color:brown;
-    padding: 0rem 15rem;
+    padding: 0rem 8rem;
     padding-bottom: 1rem;
     margin-bottom:0.2ch;
     
@@ -53,15 +53,13 @@ body{
 .footer{
     background-color: var(--primary-color);
     padding-bottom: 2rem;
-    margin-top: 250px;
+    margin-top: 350px;
     
 }
 
 .footer-header{
     padding-top:1rem;
     text-align: center;
-    
-    
     color:brown;
     background-color: var(--primary-color);
 }
