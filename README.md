@@ -9,7 +9,7 @@ First, create three seperate file for app.js, html file, and style file.
 
 In program,
 
-Step-1: create textarea in html.
+Step-1: create textarea for input.
 Step-2: add button.
 Step-3: create box for show output.
 Step-4: wiring textarea input.
